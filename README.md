@@ -14,3 +14,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+Languages and Tools:
+bootstrap c cplusplus css3 express git html5 javascript mongodb nodejs react redux 
